@@ -1,0 +1,21 @@
+title: Homepage Links
+
+cardBlur: md
+theme: dark
+target: _blank
+hideVersion: true
+hideErrors: true
+showStats: false
+
+layout:
+  Forms:
+    icon: asana.png
+  Test:
+    icon: trello.png
+  Test3:
+    style: column
+    icon: trello.png
+  Test2:
+    style: row
+    columns: 4
+    icon: trello.png
