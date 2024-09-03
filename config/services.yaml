@@ -2,7 +2,7 @@
   - Asana:
       href: https://example.com
       description: Something
-      icon: asana.png
+      icon: /icons/asana.png
   - Trello:
       href: https://example.com
       description: Something
@@ -11,7 +11,7 @@
   - Asana:
       href: https://example.com
       description: Something
-      icon: asana.png
+      icon: /icons/asana.png
   - Trello1:
       href: https://example.com
       description: Something
@@ -20,7 +20,7 @@
   - Asana:
       href: https://example.com
       description: Something
-      icon: asana.png
+      icon: /icons/asana.png
   - Trello1:
       href: https://example.com
       description: Something
@@ -37,7 +37,7 @@
   - Asana:
       href: https://example.com
       description: Something
-      icon: asana.png
+      icon: /icons/asana.png
   - Trello1:
       href: https://example.com
       description: Something

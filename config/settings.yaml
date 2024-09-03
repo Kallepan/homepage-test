@@ -9,7 +9,7 @@ showStats: false
 
 layout:
   Forms:
-    icon: asana.png
+    icon: /icons/asana.png
   Test:
     icon: trello.png
   Test3:
